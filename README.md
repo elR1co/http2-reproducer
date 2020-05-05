@@ -1,4 +1,4 @@
-== Vert.x HTTP/2 Client problem reproducer
+## Vert.x HTTP/2 Client problem reproducer
 
 1. Start application in debug mode in IntelliJ :
 
